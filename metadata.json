@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel v10.0",
+  "description": "A crypto price monitoring bot with custom SMA convergence alerts and price alerts, sending notifications via Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
